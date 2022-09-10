@@ -11,8 +11,6 @@
       "type": "vector",
       "url": "https://api.maptiler.com/tiles/v3/tiles.json?key=Y5K8VkuK2Ev1AL4NwaMB"
     },
-    "maptiler_attribution":{
-        "attribution":"<a href=\"https://www.maptiler.com/copyright/\" target=\"_blank\">&copy; MapTiler</a> <a href=\"https://www.openstreetmap.org/copyright\" target=\"_blank\">&copy; OpenStreetMap contributors</a>","type":"vector"},
     "natural_earth_shaded_relief": {
       "maxzoom": 6,
       "tileSize": 256,
