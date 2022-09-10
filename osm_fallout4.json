@@ -24,7 +24,7 @@
     }
   },
   "sprite": "https://maputnik.github.io/osm-liberty/sprites/osm-liberty",
-  "glyphs": "https://api.maptiler.com/fonts/{fontstack}/{range}.pbf?key={key}",
+  "glyphs": "https://api.maptiler.com/fonts/{fontstack}/{range}.pbf?key=Y5K8VkuK2Ev1AL4NwaMB",
   "layers": [
     {
       "id": "background",
@@ -1701,6 +1701,6 @@
       }
     }
   ],
-  "id": "osm-liberty",
+  "id": "osm-fallout4",
   "owner": "tullyoow"
 }
